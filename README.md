@@ -1,6 +1,10 @@
 # Past Projects:
 - LunchBuddies (Flutterflow eating/meeting app)
-- 
+- IML Projects:
+- - Project 1:
+  - Project 2:
+  - Project 3:
+  - Project 4:
 
 
 # Current on-going Projects:
