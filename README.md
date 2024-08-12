@@ -36,7 +36,7 @@ I'm a Computer Science student at ETH Zürich with a passion for innovation, tec
 
 3. **Artisan Perfume Product Service**
    - Developed 3 different concepts
-   - Currently building a website for one concrete product
+   - [Prototype](https://intime-perfume.flutterflow.app/)
 
 4. **Automated Embroidery Design**
    - Created 10+ custom embroidered shirts
