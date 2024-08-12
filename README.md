@@ -16,9 +16,10 @@
 ### Tech Stack
 - TypeScript
 - React-Native
+- JavaScript
 - TailwindCSS
 - Appwrite
-- 
+- Firebase
 
 
 
