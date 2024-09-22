@@ -22,29 +22,24 @@ I'm a Computer Science student at ETH Zürich with a passion for innovation, tec
    - Lenscape (Week 2-3)
    - More to come...
 
-2. **DeFi Bachelor Thesis** (Seeking opportunities in the DisCo Lab at ETH Zurich)
+2. **DeFi Bachelor Thesis**
+  - An Empirical Analysis of Prediction Markets at DisCo Lab
 
 ### Past Projects
 1. **LunchBuddies**
    - A Flutterflow-based eating/meeting app
 
-2. **IML Projects**
-   - Project 1: [Brief description]
-   - Project 2: [Brief description]
-   - Project 3: [Brief description]
-   - Project 4: [Brief description]
-
-3. **Artisan Perfume Product Service**
+2. **Artisan Perfume Product Service**
    - Developed 3 different concepts
    - [Prototype](https://intime-perfume.flutterflow.app/)
 
-4. **Automated Embroidery Design**
+3. **Automated Embroidery Design**
    - Created 10+ custom embroidered shirts
    - Utilized DALL-E & Midjourney for design creation
    - Implemented Computer Vision techniques (Blob Detection, Edge Detection)
    - Automated embroidery process using Digitizer V5
 
-5. **Blockchain Solution for Proof of Ownership and Authenticity**
+4. **Blockchain Solution for Proof of Ownership and Authenticity**
    - Developed a concept using NFC chips connected to NFTs
    - Pitched to investors and entrepreneurs at the Vice Chancellor's Cup of Student Entrepreneurship
 
@@ -52,6 +47,10 @@ I'm a Computer Science student at ETH Zürich with a passion for innovation, tec
 - **ETH Brussels 2024**
   - First hackathon participation
   - Won 210 USDT for developing an online smart contract gambling game
+ 
+- **ETH Online 2024**
+  - created: https://make-mega-monke-money.vercel.app/
+ 
 
 ## Academic Experiences
 - **Teaching Assistant** (ETH Zürich, Autumn Semester 2022)
