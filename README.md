@@ -20,7 +20,7 @@ I'm a Computer Science student at ETH Zürich with a passion for innovation, tec
 1. **10 for 10 Challenge**
    - Terrasphere (Week 1)
    - Lenscape (Week 2-3)
-   - More to come...
+   - Telegram bot replacing AskUs with custom questions
 
 2. **DeFi Bachelor Thesis**
   - An Empirical Analysis of Prediction Markets at DisCo Lab
